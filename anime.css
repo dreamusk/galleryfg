@@ -1,0 +1,21 @@
+#ani{
+  margin-top:25px;
+  margin-left:380px;
+  margin-right:50px ;
+  margin-bottom:25px ;
+    width: 500px;
+    height: 650px;  
+    border-radius: 5px;
+
+  
+      
+}
+
+img {
+    border: 1px solid #ffffff; /* set the initial border */
+    transition: box-shadow 0.3s ease-in-out; /* add a transition effect for the box-shadow */
+  }
+  
+  img:hover {
+    box-shadow: 0 0 100px #d59aff; /* add a white glow effect on hover */
+  }
